@@ -1,10 +1,8 @@
 ### Hi, i'm Mohsen!
 
-I'm a junior studying computer science & engineering at ucla. last summer i built agent tools and llm pipelines at [agentai](https://www.agentai.app/), and before that i was the founding engineer at [faev.ai](https://www.faev.ai/about). i also teach [combat robotics](https://catalog.registrar.ucla.edu/course/2024/engr1cr?siteYear=2024) at ucla year-round.
+I'm a junior studying computer science & engineering at ucla. last summer i built agent tools and llm pipelines at [agentai](https://www.agentai.app/), and i teach [combat robotics](https://catalog.registrar.ucla.edu/course/2024/engr1cr?siteYear=2024) at ucla year-round.
 
-#### [retune](https://retuneapp.com/)
-
-music app that turns your city into a live heat map of what people are listening to. built with [ucla devx](https://ucladevx.com).
+Building [retune](https://retuneapp.com/), a music app that turns cities into live heat maps of what people are listening to, alongside my team at [ucla devx](https://ucladevx.com).
 
 <a href="https://apps.apple.com/us/app/retune-app/id6741438431"><img src="assets/retune-banner.jpg" alt="retune"></a>
 
