@@ -1,9 +1,10 @@
-### hi, i'm mohsen
+### Hi, i'm Mohsen!
 
-i'm a junior studying computer science & engineering at ucla. last summer i built agent tools and llm pipelines at [agentai](https://www.agentai.app/), and i teach [combat robotics](https://catalog.registrar.ucla.edu/course/2024/engr1cr?siteYear=2024) at ucla year-round.
+I'm a junior studying computer science & engineering at ucla. last summer i built agent tools and llm pipelines at [agentai](https://www.agentai.app/), and i teach [combat robotics](https://catalog.registrar.ucla.edu/course/2024/engr1cr?siteYear=2024) at ucla year-round.
 
 | project | what it is |
 | --- | --- |
+| [retune](https://apps.apple.com/us/app/retune-app/id6741438431) | music app that turns your city into a live heat map of what people are listening to. built with [ucla devx](https://ucladevx.com). [retuneapp.com](https://retuneapp.com/) |
 | [agent sync](https://github.com/mohsensc/sync) | lets a team's coding agents see each other so they stop clobbering edits. [agentsync.studio](https://agentsync.studio) |
 | [peek-ai-boo](https://github.com/mohsensc/peek-ai-boo) | macos notch app that pings you when claude code or codex needs you |
 | [rubiks solutions](https://github.com/mohsensc/RubiksSolutions) | 3d cube in the browser with a c++ solver compiled to wasm. [rubiks.solutions](https://rubiks.solutions) |
@@ -11,4 +12,6 @@ i'm a junior studying computer science & engineering at ucla. last summer i buil
 | [openvla on jetson](https://github.com/mohsensc/openvla-jetsonorinnx) | running a vision-language-action model for a robot off a jetson orin nx |
 | [locked skeletons](https://github.com/mohsensc/LockedSkeletons) | eye tracker that sends a skeleton banging a shield when you look away |
 
-more at [mohsensarrafan.com](https://mohsensarrafan.com). feel free to reach out.
+[mohsensarrafan.com](https://mohsensarrafan.com)
+
+Feel free to reach out!
